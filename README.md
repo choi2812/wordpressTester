@@ -22,6 +22,21 @@ wordpress 살려줘... 날좀 살랴줘... ㅠㅜㅠㅜㅠㅜ 으흑으흑 ㅠ�
  *****
 맨날 하는데 왜 맨날 까묵까묵 할까.... 눈무리 난다....
 
+5.git branch
+
+현 브런치 위치 확인
+<pre>* master</pre>
+
+6.git checkout -b 20200514_startSet<br>
+(20200514_startSet는 브런치 이름임요...)<br>
+브런치 발생과 동시에 현재 브런치 변경할꺼임 귀찮음... ㅠ <br>
+<pre>-b 까먹었음 깃 체크아웃 하셈...</pre>
+ __확인__
+*****
+Switched to a new branch '20200514_startSet'
+*****
+5번으로 브런치 위치 확인 
+
 
 
 
