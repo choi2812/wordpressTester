@@ -14,11 +14,12 @@ wordpress 살려줘... 날좀 살랴줘... ㅠㅜㅠㅜㅠㅜ 으흑으흑 ㅠ�
 
 4.git status
 
- 확인<br>
+ __확인__
+ *****
  On branch master<br>
  Your branch is up to date with 'origin/master'.<br>
  nothing to commit, working tree clean<br>
-
+ *****
 맨날 하는데 왜 맨날 까묵까묵 할까.... 눈무리 난다....
 
 
